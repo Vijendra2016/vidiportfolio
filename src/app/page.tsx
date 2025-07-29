@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import LiveClock from "./components/LiveClock";
 export default function Home() {
   return (
     <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
@@ -7,7 +7,7 @@ export default function Home() {
     
       
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-       
+        <LiveClock />
     <div className="w-full flex justify-center items-center text-black font-serif flex-wrap">
         <h1 className="text-[12vw] leading-none text-black"> Vijendra </h1>
         <div className="w-[100px] h-[100px] sm:w-[140px] sm:h-[140px] mx-4 rounded-lg overflow-hidden shadow-lg">
