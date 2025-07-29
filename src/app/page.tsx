@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1> Vijendra Singh Sisodiya</h1>
+        <h1 className="text-3xl md:text-9xl text-black font-medium tracking-tight "> Vijendra Singh Sisodiya</h1>
         Shopify plus developer 
         
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
