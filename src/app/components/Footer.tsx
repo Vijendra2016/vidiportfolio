@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="bg-gray-300 py-16 px-4 text-center">
-      <h2 className="text-5xl md:text-6xl font-serif font-semibold text-black mb-6">
+      <h2 className="text-9xl md:text-8xl   text-black mb-6">
         Interested In Working Together?
       </h2>
       <p className="max-w-2xl mx-auto text-lg md:text-xl text-black mb-4">
