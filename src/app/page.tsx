@@ -9,7 +9,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
        
     <div className="w-full flex justify-center items-center text-black font-serif flex-wrap">
-        <h1 className="text-[12vw] leading-none"> Vijendra </h1>
+        <h1 className="text-[12vw] leading-none text-black"> Vijendra </h1>
         <div className="w-[100px] h-[100px] sm:w-[140px] sm:h-[140px] mx-4 rounded-lg overflow-hidden shadow-lg">
           
 
@@ -24,8 +24,8 @@ export default function Home() {
            
         />
         </div>
-        <h1 className="text-[12vw] leading-none">Singh</h1>
-        <p className="mt-10 text-lg sm:text-xl max-w-xl font-sans text-gray-800">
+        <h1 className="text-[12vw] leading-none text-black">Singh</h1>
+        <p className="mt-10 text-lg sm:text-xl max-w-xl font-sans text-black">
         Shopify plus Developer ,8 years experince in shopify ecosystem  <br />
         building memorable and influential brands.
       </p>
