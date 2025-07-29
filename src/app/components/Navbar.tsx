@@ -33,7 +33,7 @@ export default function Navbar() {
       <div className="flex space-x-6 text-lg">
         <a href="#" className="hover:underline">Home</a>
         <a href="#" className="hover:underline">Work</a>
-        <a href="#" className="hover:underline">About</a>
+        <a href="/about" className="hover:underline">About</a>
       </div>
 
       {/* Center - Live Clock */}
