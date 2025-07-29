@@ -31,8 +31,8 @@ export default function Navbar() {
     <nav className="w-full flex items-center justify-between px-6 py-4 font-serif text-black">
       {/* Left - Navigation Links */}
       <div className="flex space-x-6 text-lg">
-        <a href="#" className="hover:underline">Home</a>
-        <a href="#" className="hover:underline">Work</a>
+        <a href="https://vidiportfolio.vercel.app/" className="hover:underline">Home</a>
+        <a href="/work" className="hover:underline">Work</a>
         <a href="/about" className="hover:underline">About</a>
       </div>
 
