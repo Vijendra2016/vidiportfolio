@@ -31,7 +31,7 @@ export default function About() {
 
           <Image
           className="w-full h-full object-cover"
-          src="https://cdn.prod.website-files.com/664d064e3ff462dc919f2942/664d0d68dfd3d2d9584971ea_Profile%20Pic.webp"
+          src="https://cdn.prod.website-files.com/67860b0fa33a316e96823102/6889a239262bcd5186ba0891_Vidinew.png"
           alt="Next.js logo"
           width={280}
           height={458}
