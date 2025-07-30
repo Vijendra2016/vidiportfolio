@@ -9,14 +9,13 @@ export default function About() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
        <h1 className="text-[10vw] underline		 leading-none text-black"> Bit More About Me </h1>
        <Image
-          className="w-full h-full "
-          src="https://cdn.prod.website-files.com/664d064e3ff462dc919f2942/665643d2f9eafa5030afdf80_Head%20Shot%20Crop%20copy%203.webp"
-          alt="Next.js logo"
-          width={1280}
-          height={458}
-          priority
-           
-        />
+        className="ff"
+        src="https://cdn.prod.website-files.com/67860b0fa33a316e96823102/6889a239262bcd5186ba0891_Vidinew.png"
+        alt="Vijendra Singh Sisodiya"
+        width={680}
+        height={220}
+        priority
+      />
          <p className=" text-lg sm:text-xl max-w-xl font-sans text-black">
        I specialise in building fast, scalable Shopify stores that help brands grow their online presence. I’m driven by the freedom to work on projects that genuinely excite me — collaborating with passionate people, turning big ideas into exceptional eCommerce experiences.
       </p>

@@ -10,14 +10,14 @@ export default function Home() {
         <LiveClock />
     <div className="w-full flex justify-center items-center text-black font-serif flex-wrap">
         <h1 className="text-[12vw] leading-none text-black"> Vijendra </h1>
-        <div className="w-[100px] h-[100px] sm:w-[140px] sm:h-[140px] mx-4 rounded-lg overflow-hidden shadow-lg">
+        <div className="w-[300px] h-[300px] sm:w-[140px] sm:h-[140px] mx-4 rounded-lg overflow-hidden shadow-lg">
           
 
 
           <Image
           className="w-full h-full object-cover"
-          src="https://cdn.prod.website-files.com/664d064e3ff462dc919f2942/664d0d68dfd3d2d9584971ea_Profile%20Pic.webp"
-          alt="Next.js logo"
+          src="https://cdn.prod.website-files.com/67860b0fa33a316e96823102/68899f91cba0818c92b3fbb8_vijendra%20singh%20sisodiya.jpg"
+          alt="Vijendra singh sisodiya"
           width={280}
           height={458}
           priority
