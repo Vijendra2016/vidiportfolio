@@ -1,4 +1,5 @@
 import Image from "next/image";
+import GitHubContributions from "../components/GitHubContributions";
 
 export default function About() {
   return (
@@ -7,6 +8,7 @@ export default function About() {
     
       
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
+        <GitHubContributions/>
        <h1 className="text-[10vw] underline		 leading-none text-black"> Bit More About Me </h1>
        <Image
         className="ff"
