@@ -22,6 +22,9 @@ export default function About() {
        I specialise in building fast, scalable Shopify stores that help brands grow their online presence. I’m driven by the freedom to work on projects that genuinely excite me — collaborating with passionate people, turning big ideas into exceptional eCommerce experiences.
       </p>
        <h1 className="text-[8vw] 	  text-black"> Skills </h1>
+       <p className=" text-8xl sm:text-xl max-w-xl font-sans text-black">
+         Shopify plus, CRO , A/B test , Next js , checkout/customer extension , Techinal SEO , corevita 
+      </p>
       
     <div className="w-full flex justify-center items-center text-black font-serif flex-wrap">
         <h1 className="text-[12vw] leading-none text-black"> Vijendra </h1>
@@ -31,7 +34,7 @@ export default function About() {
 
           <Image
           className="w-full h-full object-cover"
-          src="https://cdn.prod.website-files.com/67860b0fa33a316e96823102/6889a239262bcd5186ba0891_Vidinew.png"
+          src=" https://cdn.prod.website-files.com/67860b0fa33a316e96823102/6889a239262bcd5186ba0891_Vidinew.png"
           alt="Next.js logo"
           width={280}
           height={458}
